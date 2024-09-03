@@ -99,7 +99,7 @@ Esta propriedade é uma junção das propriedades Wrap e Row, por conta disso to
 ### Space Around
 <img src="images/align item space around.png">
 
-###Stretch
+### Stretch
 <img src="./images/align item strch.png">
 
 ### Center
@@ -115,7 +115,7 @@ Esta propriedade é uma junção das propriedades Wrap e Row, por conta disso to
 Centralizar algo perfeitamente pode ser feito com o seguinte conjunto de propriedades
 
 ![image](https://github.com/user-attachments/assets/ad7142db-eba9-442c-b7bb-e0952ae69e76)
-<img src=".images/centro perfeito.png">
+<img src="./images/centro perfeito.png">
 
 
 

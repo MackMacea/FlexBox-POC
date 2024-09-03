@@ -80,10 +80,10 @@ Esta propriedade é uma junção das propriedades Wrap e Row, por conta disso to
 <img src="./images/align item center.png">
 
 ### Flex Start
-<img src="./images/aligm item flex start.png">
+<img src="./images/aligm item flex startt.png">
 
 ### Flex End
-<img src="./images/Align item flex end.png">
+<img src="./images/align item flex end.png">
 
 ### Stretch
 <img src="./images/alignn item strech.png">
@@ -97,7 +97,7 @@ Esta propriedade é uma junção das propriedades Wrap e Row, por conta disso to
 <img src="./images/align content space between.png">
 
 ### Space Around
-<img src="./images/align item space around/.png">
+<img src="images/align item space around.png">
 
 ###Stretch
 <img src="./images/align item strch.png">
@@ -115,4 +115,7 @@ Esta propriedade é uma junção das propriedades Wrap e Row, por conta disso to
 Centralizar algo perfeitamente pode ser feito com o seguinte conjunto de propriedades
 
 ![image](https://github.com/user-attachments/assets/ad7142db-eba9-442c-b7bb-e0952ae69e76)
-<img src=".images/centro perfeito">
+<img src=".images/centro perfeito.png">
+
+
+

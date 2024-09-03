@@ -7,14 +7,14 @@
 Conteudos deste projeto
 ------------------------
 <!--ts-->
-*[Flex Container](#Flex Container)
-  *[Flex-Direction](#Flex-Direction)
-  *[Flex-Wrap](#Flex-Wrap) 
-  *[Flex-Flow](#Flex-Flow)
-  *[Justify-Content](#Justify-Content)
-  *[Align-Items](#Align-Items)
-  *[Align-Content](#Align-Content)
-  *[Centralizar perfeitamente](#Centralizar perfeitamente)
+* [Flex Container](#Flex-Container) <br>
+    * [Flex-Direction](#Flex-Direction) <br>
+    * [Flex-Wrap](#Flex-Wrap)  <br>
+    * [Flex-Flow](#Flex-Flow) <br>
+    * [Justify-Content](#Justify-Content)<br>
+    * [Align-Items](#Align-Items) <br>
+    * [Align-Content](#Align-Content) <br>
+    * [Centralizar perfeitamente](#Centralizar-perfeitamente) <br>
   <!--te-->
 
 

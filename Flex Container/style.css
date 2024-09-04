@@ -1,0 +1,134 @@
+
+/**BASE**/
+
+.container{
+    display: flex;
+    background-color: red;
+    margin-bottom: 40px;
+}
+
+.MaisEspaco{
+    height: 200px;
+}
+
+.MaisEspaco2{
+    height: 600px;
+    flex-wrap: wrap;
+}
+
+.container > div{
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+/**ESPECIFICOS**/
+
+.fd1{
+    
+    flex-direction: column;
+}
+
+.fd2{
+    flex-direction: column-reverse;
+}
+
+.fd3{
+    flex-direction: row;
+}
+
+.fd4{
+    flex-direction: row-reverse;
+}
+
+.fw1{
+    flex-wrap: wrap;
+}
+
+.fw2{
+    flex-wrap: nowrap;
+}
+
+.fw3{
+    flex-wrap: wrap-reverse;
+}
+
+.ff1{
+    flex-flow: row wrap;
+}
+
+.ff2{
+    flex-flow: row-reverse wrap;
+}
+
+.jc1{
+    justify-content: center;
+}
+
+.jc2{
+    justify-content: flex-start;
+}
+
+.jc3{
+    justify-content: flex-end;
+}
+
+.jc4{
+    justify-content: space-around;
+}
+
+.jc5{
+    justify-content: space-between;
+}
+
+.al1{
+    align-items: center;
+}
+
+.al2{
+    align-items: flex-start;
+}
+
+.al3{
+    align-items: flex-end;
+}
+
+.al4{
+    align-items: stretch;
+}
+
+.al5{
+    align-items: baseline;
+}
+
+.ac1{
+    align-content: space-between;
+}
+
+.ac2{
+    align-content: space-around;
+}
+
+.ac3{
+    align-content: stretch;
+}
+
+.ac4{
+    align-content: center;
+}
+
+.ac5{
+    align-content: flex-start;
+}
+
+.ac6{
+    align-content: flex-end;
+}
+
+.cp{
+    justify-content: center;
+    align-items: center;
+}

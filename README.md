@@ -196,3 +196,43 @@ Exemplo:
 <img src="./images/Order Property HTML.jpeg">
 
 ## Flex-Grow
+A propriedade  flex-grow especifica o quanto um item flexível crescerá em relação ao restante dos itens flexíveis.
+
+<img src="./images/Flex Grow.jpeg">
+
+O valor deve ser um número, o valor padrão é 0.
+
+<img src="./images/FLex Grow HTML.jpeg">
+
+## Flex-Shrink
+A propriedade flex-shrink especifica o quanto um item flexível encolherá em relação ao restante dos itens flexíveis.
+O valor deve ser um número, o valor padrão é 1.
+
+<img src="./images/Flex Shrink.jpeg">
+
+<img src="./images/Flex Shrik HTML.jpeg">
+<img src="./images/Flex Shrink HTML 2.jpeg">
+
+## Flex Basis
+A propriedade flex-basis especifica o comprimento inicial de um item flexível.
+
+<img src="./images/Flex Basis.jpeg">
+<img src="./images/Flex Basis HTML.jpeg">
+
+## Flex Property
+A flex property é uma abreviação para as propriedades flex-grow, flex-shrinke flex-basis.
+
+<img src="./images/Flex Property.jpeg">
+<img src="./images/Flex Property HTML.jpeg">
+
+## Align-Self
+A propriedade align-self especifica o alinhamento do item selecionado dentro do contêiner flexível.
+
+A propriedade substitui o alinhamento padrão definido pela propriedade align-self do contêiner .align-items
+
+Nestes exemplos usamos um contêiner de 200 pixels de altura, para demonstrar melhor a propriedade align-self:
+
+<img src="./images/Align Self.jpeg">
+<img src="./images/Align Self 2.jpeg">
+<img src="./images/Align Self HTML.jpeg">
+<img src="./images/Align Self HTML 2.jpeg">

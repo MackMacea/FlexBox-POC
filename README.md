@@ -15,6 +15,14 @@ Conteudos deste projeto
     * [Align-Items](#Align-Items) <br>
     * [Align-Content](#Align-Content) <br>
     * [Centralizar perfeitamente](#Centralizar-perfeitamente) <br>
+* [Flex Items](#Flex-Items) <br>
+    * [Child Elements](#Child-Elements)<br>
+    * [Order Property](#Order-Property)<br>
+    * [Flex-Grow](#Flex-Grow)<br>
+    * [Flex-Shrink](#Flex-Shrink)<br>
+    * [Flex-Basis](#Flex-Basis)<br>
+    * [Flex-Property](#Flex-Property)<br>
+    * [Align-Self](#Align-Self)<br>
   <!--te-->
 
 
@@ -168,7 +176,23 @@ Podemos centralizar algo perfeitamente utilizando o Justify-Content:Center e o A
 ![image](https://github.com/user-attachments/assets/ad7142db-eba9-442c-b7bb-e0952ae69e76)
 <img src="./images/centro perfeito.png">
 
+## Child Elements
+Os elementos filhos diretos de um contêiner flexível se tornam automaticamente itens flexíveis (flex). As propriedades do Flex Item são: Order, Flex-grow, Flex-shrink, Flex-basis, Flex e Align-self.
 
+<img src="./images/Child Elements.jpeg">
 
+O elemento acima representa quatro itens flexíveis verdes claro dentro de um contêiner flexível verde.
 
+## The Order Property
+A propriedade Order especifica a ordem dos itens flexíveis.
 
+<img src="./images/Order Property.jpeg">
+
+O primeiro item flexível no código não precisa aparecer como o primeiro item no layout.
+O valor do pedido deve ser um número, o valor padrão é 0.
+
+Exemplo:
+
+<img src="./images/Order Property HTML.jpeg">
+
+## Flex-Grow

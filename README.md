@@ -246,4 +246,27 @@ Nestes exemplos usamos um contêiner de 200 pixels de altura, para demonstrar me
 
 Por exemplo, se você quiser criar um layout de duas colunas para a maioria dos tamanhos de tela e um layout de uma coluna para telas pequenas (como celulares e tablets), você pode alterar o flex-direction de row para column em um ponto de interrupção específico (800px no exemplo abaixo):
 
-<img src="./images/
+<img src="./images/Responsive Flexbox.jpeg">
+<img src="./images/Responsive Flexbox 2.jpeg">
+<img src="./images/Responsive Flexbox HTML.jpeg">
+<img src="./images/Responsive Flexbox HTML 2.jpeg">
+
+## Responsive Image
+Usando o flexbox para criar uma galeria de imagens responsiva que varia entre quatro, duas ou imagens de largura total, dependendo do tamanho da tela:
+
+<img src="./images/Responsive Image.jpeg">
+<img src="./images/Responsive Image HTML.jpeg">
+<img src="./images/Responsive Image HTML 2.jpeg">
+<img src="./images/Responsive Image HTML 3.jpeg">
+<img src="./images/Responsive Image HTML 4.jpeg">
+
+## Responsive Website
+Usando o flexbox para criar um site responsivo, contendo uma barra de navegação flexível e conteúdo flexível:
+
+<img src="./images/Responsive Website.jpeg">
+<img src="./images/Responsive Website 2.jpeg">
+<img src="./images/Responsive Website HTML.jpeg">
+<img src="./images/Responsive Website HTML 2.jpeg">
+<img src="./images/Responsive Website HTML 3.jpeg">
+<img src="./images/Reponsive Website HTML 4.jpeg">
+<img src="./images/Responsive Website HTML 5.jpeg">

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        font-family: Arial;
+    }
+
+    .header {
+        text-align: center;
+        padding: 32px;
+    }
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0 4px;
+    }
+
+    .column {
+        flex: 25%;
+        max-width: 25%;
+        padding: 0 4px;
+    }
+
+    .column img {
+        margin-top: 8px;
+        vertical-align: middle;
+    }
+
+    @media (max-width: 800px) {
+        .column {
+            flex: 50%;
+            max-width: 50%;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .column {
+            flex: 100%;
+            max-width: 100%;
+        }
+    }
+</style>
+
+<body>
+
+    <div class="header">
+        <h1>Galeria de imagem responsiva</h1>
+        <p>Ajuste o tamanho da tela para ver o efeito responsivo.</p>
+    </div>
+
+    <div class="row">
+        <div class="column">
+            <img src="https://web.pdx.edu/~strae/a341/multi-column-website/img/cute-dog-shiba-inu-ryuji-japan-44.jpg" style="width:100%">
+            <img src="https://preview.redd.it/i-found-the-source-image-of-our-beloved-hamster-v0-iyieujp9dsla1.jpg?auto=webp&s=03959e967e833aed887daa245026c5078ef440f6" style="width:100%">
+            <img src="https://static.ric.com.br/uploads/2023/04/gato-18kg-adotado-1-480x480.png" style="width:100%">
+            <img src="https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/picanha-aa0c51c6-640w.jpg" style="width:100%">
+            <img src="https://quero-ser-veterinario.s3.amazonaws.com/wp-content/uploads/queroserveterinario/destaque-gata-tricolor.webp" style="width:100%">
+            <img src="https://images.tcdn.com.br/img/img_prod/350075/muda_de_pitaya_branca_35cm_feita_de_estaca_7689_1_20220412114223.jpg" style="width:100%">
+            <img src="https://pm1.aminoapps.com/6333/42711f597dc3835190d2e7da8fb5e9ac0cdc0d01_00.jpg" style="width:100%">
+        </div>
+
+        <div class="column">
+            <img src="https://pm1.aminoapps.com/6333/42711f597dc3835190d2e7da8fb5e9ac0cdc0d01_00.jpg" style="width:100%">
+            <img src="https://static.ric.com.br/uploads/2023/04/gato-18kg-adotado-1-480x480.png" style="width:100%">
+            <img src="https://web.pdx.edu/~strae/a341/multi-column-website/img/cute-dog-shiba-inu-ryuji-japan-44.jpg" style="width:100%">
+            <img src="https://preview.redd.it/i-found-the-source-image-of-our-beloved-hamster-v0-iyieujp9dsla1.jpg?auto=webp&s=03959e967e833aed887daa245026c5078ef440f6" style="width:100%">
+            <img src="https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/picanha-aa0c51c6-640w.jpg" style="width:100%">
+            <img src="https://quero-ser-veterinario.s3.amazonaws.com/wp-content/uploads/queroserveterinario/destaque-gata-tricolor.webp" style="width:100%">
+            <img src="https://images.tcdn.com.br/img/img_prod/350075/muda_de_pitaya_branca_35cm_feita_de_estaca_7689_1_20220412114223.jpg" style="width:100%">
+        </div>
+
+        <div class="column">
+            <img src="https://images.tcdn.com.br/img/img_prod/350075/muda_de_pitaya_branca_35cm_feita_de_estaca_7689_1_20220412114223.jpg" style="width:100%">
+            <img src="https://web.pdx.edu/~strae/a341/multi-column-website/img/cute-dog-shiba-inu-ryuji-japan-44.jpg" style="width:100%">
+            <img src="https://preview.redd.it/i-found-the-source-image-of-our-beloved-hamster-v0-iyieujp9dsla1.jpg?auto=webp&s=03959e967e833aed887daa245026c5078ef440f6" style="width:100%">
+            <img src="https://quero-ser-veterinario.s3.amazonaws.com/wp-content/uploads/queroserveterinario/destaque-gata-tricolor.webp" style="width:100%">
+            <img src="https://static.ric.com.br/uploads/2023/04/gato-18kg-adotado-1-480x480.png" style="width:100%">
+            <img src="https://pm1.aminoapps.com/6333/42711f597dc3835190d2e7da8fb5e9ac0cdc0d01_00.jpg" style="width:100%">
+            <img src="https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/picanha-aa0c51c6-640w.jpg" style="width:100%">
+        </div>
+
+        <div class="column">
+            <img src="https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/picanha-aa0c51c6-640w.jpg" style="width:100%">
+            <img src="https://quero-ser-veterinario.s3.amazonaws.com/wp-content/uploads/queroserveterinario/destaque-gata-tricolor.webp" style="width:100%">
+            <img src="https://preview.redd.it/i-found-the-source-image-of-our-beloved-hamster-v0-iyieujp9dsla1.jpg?auto=webp&s=03959e967e833aed887daa245026c5078ef440f6" style="width:100%">
+            <img src="https://web.pdx.edu/~strae/a341/multi-column-website/img/cute-dog-shiba-inu-ryuji-japan-44.jpg" style="width:100%">
+            <img src="https://pm1.aminoapps.com/6333/42711f597dc3835190d2e7da8fb5e9ac0cdc0d01_00.jpg" style="width:100%">
+            <img src="https://static.ric.com.br/uploads/2023/04/gato-18kg-adotado-1-480x480.png" style="width:100%">
+            <img src="https://images.tcdn.com.br/img/img_prod/350075/muda_de_pitaya_branca_35cm_feita_de_estaca_7689_1_20220412114223.jpg" style="width:100%">
+        </div>
+    </div>
+
+</body>
+
+</html>
